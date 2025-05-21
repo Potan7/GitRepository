@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contents2
+=======
+Contents4
+>>>>>>> 29b361f (Commit4)
